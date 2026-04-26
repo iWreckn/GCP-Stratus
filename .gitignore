@@ -1,0 +1,24 @@
+# Secrets and Configurations
+.env
+
+# Local Databases and Output
+data/
+exports/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS and IDE Specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
